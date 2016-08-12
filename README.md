@@ -25,14 +25,11 @@ When it asks if you want to merge or replace stuff, select merge.
 
 In two Terminal tabs, run:
 
-<<<<<<< cd6b4dfc73515c7dde48ef375abcc155fdb1927d
+
 1. Run `composer run server --timeout=0`
-1. Run `npm start` in `web/themes/dashing/`
-=======
-1. Run `composer run-script server`
 2. Run `npm install -g gulp` 
-2. Run `npm start` in `web/themes/dashing/`
->>>>>>> Testing changes to twig files
+3. Run `npm start` in `web/themes/dashing/`
+
 
 ### Drupal Credentials
 
