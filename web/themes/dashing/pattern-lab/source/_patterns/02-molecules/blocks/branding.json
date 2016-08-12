@@ -6,7 +6,7 @@
   },
   "site_logo": "../../../../logo.svg",
   "site_title": "Drupal Lab",
-  "site_slogan": "Drupal 8 + Pattern Lab Twig",
+  "site_slogan": "Drupal 8 + Pattern Lab Twig + whatever else you want to add",
   "pl_prefix": "<div class=\"col-md-9\">",
   "pl_suffix": "</div>"
 }

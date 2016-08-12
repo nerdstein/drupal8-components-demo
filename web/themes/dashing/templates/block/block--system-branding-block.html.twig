@@ -18,7 +18,8 @@
 {% block content %}
   {% include "@molecules/blocks/branding.twig"
     with {
-      "url": path('<front>')
+      "url": path('<front>'),
+      "test_value": "This is a test value"|t
     }
   %}
 {% endblock %}

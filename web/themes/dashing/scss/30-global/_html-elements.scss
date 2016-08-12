@@ -10,6 +10,10 @@ h1 {
   @include h1();
 }
 
+a {
+  color: #ff5252;
+}
+
 blockquote {
   font-style: italic;
   border-left: solid 3px $color--gray;
